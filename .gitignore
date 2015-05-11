@@ -1,0 +1,7 @@
+## ignore checkpoints
+
+*.ipynb_checkpoints
+
+## OSX junk
+
+.DS_Store
