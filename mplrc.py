@@ -31,7 +31,7 @@ font.serif: Computer Modern
 text.usetex: True  # All text will be in the LaTeX font.
 font.size: 20
 axes.titlesize: 20
-axes.labelsize: 15
+axes.labelsize: 18
 xtick.labelsize: 20
 ytick.labelsize: 20
 legend.fontsize: 12
