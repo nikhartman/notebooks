@@ -23,7 +23,7 @@ ytick.minor.width: 2
  
 # Space ticklabels
 ytick.major.pad: 5
-ytick.major.pad: 5
+ytick.minor.pad: 5
 xtick.major.pad: 10
 xtick.minor.pad: 10
  
