@@ -39,7 +39,7 @@ legend.fontsize: 12
 image.cmap: gray
  
 # Plot elements
-lines.linewidth: 5
+lines.linewidth: 4
 lines.markersize: 18
  
 # savefig options (avoid clipping at margins)
