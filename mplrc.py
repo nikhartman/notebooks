@@ -21,11 +21,13 @@ ytick.major.width: 2
 ytick.minor.size: 10
 ytick.minor.width: 2
  
-# Space xlabels lower than default.
-xtick.major.pad: 20
-xtick.minor.pad: 20
+# Space ticklabels
+ytick.major.pad: 5
+ytick.major.pad: 5
+xtick.major.pad: 10
+xtick.minor.pad: 10
  
-# Fonts and font sizes for various elements.
+# Fonts and font sizes
 font.family: serif
 font.serif: Computer Modern
 text.usetex: True  # All text will be in the LaTeX font.
