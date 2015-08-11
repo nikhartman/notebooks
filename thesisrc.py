@@ -30,6 +30,7 @@ xtick.minor.pad: 10
 # Fonts and font sizes
 font.family: serif
 font.serif: Computer Modern
+# font.weight : black # 'light', 'normal', 'medium', 'semibold', 'bold', 'heavy', 'black'
 text.usetex: True  # All text will be in the LaTeX font.
 font.size: 20
 axes.titlesize: 20
