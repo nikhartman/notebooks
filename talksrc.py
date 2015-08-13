@@ -60,4 +60,5 @@ axes.color_cycle    : 5DA5DA, FAA43A, 60BD68, F17CB0, B2912F, B276B2, DECF3F, F1
 savefig.bbox : tight
 savefig.pad_inches : 0.2
 savefig.format : png
-# savefig.dpi : 300
+savefig.dpi : 300
+savefig.transparent : True
