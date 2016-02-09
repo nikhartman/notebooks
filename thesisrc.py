@@ -1,5 +1,6 @@
-# Stolen from Dan Allan. Edited some after that.
- 
+# color cycle
+axes.prop_cycle: cycler('color', ['4c72b0', '55a868', 'c44e52', '8172b2', 'ccb974', '64b5cd']) 
+
 # Plot area
 figure.figsize: 10, 8
 figure.facecolor: white
@@ -39,7 +40,7 @@ xtick.labelsize: 20
 ytick.labelsize: 20
 legend.fontsize: 18
  
-image.cmap: gray
+image.cmap: viridis
  
 # Plot elements
 lines.linewidth: 4
